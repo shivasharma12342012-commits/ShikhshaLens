@@ -1,0 +1,24 @@
+{
+  "name": "shikshalens",
+  "like": "neutral",
+  "mode": "both",
+  "settings": [
+    {
+      "thing": "accent",
+      "value": "#B8432E",
+      "source": "dial"
+    },
+    {
+      "thing": "neutral",
+      "value": "#6B655E",
+      "source": "dial"
+    },
+    {
+      "thing": "corners",
+      "value": "medium",
+      "source": "dial"
+    }
+  ],
+  "lifted": [],
+  "palette": "7c9fa0cc1ac7ada0f18b815c94bb1afc78177f2fc3e9bb7b0fb56a9ffb51ac53"
+}

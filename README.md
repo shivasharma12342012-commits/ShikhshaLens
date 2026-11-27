@@ -1,0 +1,2 @@
+# ShikhshaLens
+AI PAPER CHECKER
